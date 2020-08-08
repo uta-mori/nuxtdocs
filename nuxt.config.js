@@ -1,3 +1,9 @@
 import theme from '@nuxt/content-theme-docs'
 
-export default theme()
+const router =  {
+  router: {
+    base: '/nuxtdocs/'
+  }
+}
+
+export { theme, router }
