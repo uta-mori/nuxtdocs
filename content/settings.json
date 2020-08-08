@@ -1,0 +1,10 @@
+{
+  "title": "Nuxt docsテーマ",
+  "url": "",
+  "logo": {
+    "light": "/logo-light.svg",
+    "dark": "/logo-dark.svg"
+  },
+  "github": "uta-mori/nuxtdocs",
+  "twitter": "uta_mory"
+}
