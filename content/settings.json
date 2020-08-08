@@ -2,8 +2,8 @@
   "title": "Nuxt docsテーマ",
   "url": "",
   "logo": {
-    "light": "/static/logo-light.svg",
-    "dark": "/static/logo-dark.svg"
+    "light": "/nuxtdocs/static/logo-light.svg",
+    "dark": "/nuxtdocs/static/logo-dark.svg"
   },
   "github": "uta-mori/nuxtdocs",
   "twitter": "uta_mory"
