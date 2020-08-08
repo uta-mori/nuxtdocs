@@ -9,8 +9,8 @@ features:
   - Feature 3
 ---
 
-<img src="/preview.png" class="light-img" />
-<img src="/preview-dark.png" class="dark-img" />
+<img src="/static/preview.png" class="light-img" />
+<img src="/static/preview-dark.png" class="dark-img" />
 
 [Module]() for [NuxtJS](https://nuxtjs.org).
 
