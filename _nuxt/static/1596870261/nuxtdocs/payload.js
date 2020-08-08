@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/nuxtdocs", {data:[{statusCode:404,message:"Page not found"}],fetch:[],mutations:[]});
